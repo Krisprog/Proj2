@@ -6,6 +6,10 @@ void F2()
 {}
 void F3()
 {}
+void Print()
+{
+	cout << "Master\n";
+}
 
 int main()
 {
