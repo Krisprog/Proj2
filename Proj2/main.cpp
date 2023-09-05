@@ -15,7 +15,7 @@ void SearchArray(int arr[], int size)
 {}
 void Print()
 {
-	cout << "Master\n";
+	cout << "Master\n"; 
 }
 
 int main()
