@@ -9,6 +9,8 @@ void F3()
 /// Array
 void InitArray(int arr[],int size)
 {}
+void PrintArray(int arr[], int size)
+{}
 
 
 int main()
