@@ -13,6 +13,10 @@ void PrintArray(int arr[], int size)
 {}
 void SearchArray(int arr[], int size)
 {}
+void Print()
+{
+	cout << "Master\n";
+}
 
 int main()
 {
