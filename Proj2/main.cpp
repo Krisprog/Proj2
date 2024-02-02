@@ -10,7 +10,7 @@ void Print()
 {
 	cout << "Master\n";
 }
-
+frgvgrtbvrgtb
 int main()
 {
 
